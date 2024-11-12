@@ -1,0 +1,34 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use Auth;
+use Illuminate\Support\Facades\DB;
+use App\Libraries\Demon;
+use App\Traits\XrpClass;
+
+class CronController extends Controller
+{ 
+	use XrpClass;   
+	public function sendtest(){
+		$username = env('RPC_USERNAME','nairause');
+		$psw = env('RPC_PASSWORD','hgfafsdrgfffrffg');
+		$ip = env('RPC_IP','185.25.50.104');
+		$demonport = env('RPC_PORT','19345');
+		
+		$myFlash = new Demon($username,$psw,$ip,$demonport);
+		$fromaddress = '';
+		$toaddress = '';
+		$amount = "1";
+		//$result = $myFlash->getnewaddress('matriXchange');		
+		$result = $myFlash->getblockchaininfo();		
+		dd($result);
+		
+    }   
+	public function Xrptest(){				
+		$result = $this->xrp_admin_address_create();		
+		dd($result);		
+    }
+}
