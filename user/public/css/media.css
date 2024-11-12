@@ -1,0 +1,89 @@
+@import "./root.css";
+
+
+
+@media (max-width: 575.98px) {
+    .rewards-details {
+        flex-direction: column;
+        gap: 10px;
+    }
+    /* section.profile-head-sctn{
+        flex-direction: column-reverse !important;
+        gap: 15px !important;
+        align-items: baseline !important;
+    }
+    .profile-main section.profile-head-sctn{
+        flex-direction: row !important;
+    } */
+    .profile-upload{
+        box-shadow: none !important;
+    }
+    .accnt-field-detail:after{
+        display: none !important;
+    }
+    body.exchange-history-withdraw .value-coin{
+        white-space: nowrap;
+        /* overflow: hidden; */
+        text-overflow: ellipsis;
+        max-width: 90%;
+      }
+      .deposit-withdraw-col{
+        gap: 10px !important;
+      }
+      section.dep-with {
+        padding: 20px 5px;
+    }
+    .otp-input{
+        margin: 0 !important;
+    }
+    main.contain-width {
+        height: 92vh !important;
+    }
+    .withdraw-full main.contain-width,.history-full.select-address-full main.contain-width{
+        height: 100vh !important;
+    }
+
+    section.select-wallet .network-name .network-value span:last-child {
+        max-width: 90%;
+        overflow: hidden;
+        display: inline-block;
+        text-overflow: ellipsis;
+      }
+      section.select-wallet  .network-value {
+        width: 80%;
+    }
+}
+@media (max-width: 450.98px){
+    .set-password-box.confrm-trans-box, .set-password-box, .policy-box {
+        width: 100% !important;
+    }
+}
+@media (max-width: 767.98px) {
+    .message-input-area__send-button i.fa-regular.fa-paper-plane{
+        display: block !important;
+    }
+    .message-input-area__send-button button{
+        display: var(--none);
+    }
+    .message-input-area__send-button{
+        background: var(--none) !important;
+    }
+    .message-input-area__text textarea::placeholder{
+        font-size: 14px;
+    }
+    .total-process{
+        padding: 10px 7px !important;
+    }
+    .border::after{
+        right: 90px !important;
+    }
+    .border::before{
+        left: 90px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 1200px) and (max-width: 1349.98px) {}
+@media (min-width: 1440px) and (max-width: 1999.98px){}
+@media (min-width: 1200px) and (max-width: 1375px) {}
+@media (min-width: 1200px) and (max-width: 1440px) {}

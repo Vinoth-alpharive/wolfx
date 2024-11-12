@@ -1,0 +1,61 @@
+h1, h2, h3,h4,h5{
+    font-family: "Barlow" !important;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Barlow';
+    /* src: url(../fonts/Russo_One/RussoOne-Regular.ttf); */
+    src: url(../font/Barlow/Barlow-LightItalic.ttf);
+    font-style: normal;
+    font-display: swap;
+}
+/* a:hover {
+    color: #0cbce5 !important;
+} */
+/* div#hide-bottom-head a:hover{
+    color: #0cbce5 !important;   
+} */
+p{
+font-family: "Barlow";
+}
+.contain-width{
+    max-width: 1500px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: #000;
+}
+body.dark {background-color: #292c35 !important;} /* #9b59b6 */
+
+body.dark h1, body.dark .support a, body.dark p, body.dark li, body.dark .nav-link{color: #fff ;}
+body.dark a.nav-link.active{
+    color: #1CDEF8;
+}
+body.dark section.header-sctn{
+    background: #222222;
+}
+.dark-mode{
+    display: none;
+}
+body.dark .dark-mode{
+    display: block;
+}
+body.dark .light-mode{
+display: none;
+}
+
+iframe {
+    border: 0;
+    height: 97px;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: #1CDEF8 !important;
+    text-decoration: none;
+}

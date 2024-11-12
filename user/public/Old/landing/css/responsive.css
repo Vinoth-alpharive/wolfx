@@ -1,0 +1,678 @@
+.bar-indicator.carousel-indicators2 button.active {
+    opacity: 1;
+    width: 64px !important;
+    border-radius: 10px;
+    border: 0px solid #FFF;
+    height: 0;
+    margin-top: 10px!important;
+    max-height: -70px;
+}
+.carousel-indicators2 [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 10px !important;
+    height: 10px !important;
+    padding: 0;
+    margin-right: 2px;
+    margin-left: 2px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+    border-radius: 83%}
+.AI-powered-digital-assets .content-btn.carousel-indicators [data-bs-target], .ai-inner-content h5 {
+    text-transform: capitalize;
+}
+.prime-featbsc-img img {
+    width: 100%}
+.tech-icon {
+    width: 23%}
+.banner-right-imgs-block-1, .banner-right-imgs-block-2, .banner-right-imgs-block-3 {
+    animation-name: none!important;
+}
+.AI-powered-digital-assets .content-btn.carousel-indicators button.active {
+    box-shadow: -13px 20px 47px rgb(0 0 0 / 20%)!important;
+}
+.faq-cls-sectns .block-1 {
+    position: relative;
+}
+@media (max-width:767.98px) {
+    .business-overwhelm-inner p {
+    text-align: center!important;
+    margin: auto 0;
+    display: inline;
+}
+.process-left {
+    padding-top: 30px;
+    position: relative;
+    padding-bottom: 40px!important;
+}
+section.build-on-any-platform.extended-service .inner-block-build {
+    min-height: auto;
+}
+.banner-right, .benefits, .copy-left, .crypto-exchange, .meta-vese-inner .tabs, .ppts-right, ul.navbar-nav li {
+    text-align: center;
+}
+.init, form#form-help input {
+    height: 40px;
+}
+.row.responsive-ps, form#form-help {
+    margin-top: 30px;
+}
+.contain-width {
+    padding: 0 15px!important;
+}
+ul.navbar-nav li {
+    margin: 5px 0;
+}
+div#collapsibleNavbar {
+    top: 30px;
+    position: relative;
+}
+section.header-part {
+    padding: 20px 0 30px;
+}
+section.banner-part h1 {
+    line-height: 27px;
+    font-size: 25px!important;
+}
+section.banner-part h5 {
+    line-height: 23px;
+    font-size: 18px!important;
+}
+.para-banner-button p {
+    color: #090808;
+    max-width: 100%}
+.software-recogn h3, section.dev-servce h3.crypto {
+    line-height: 30px;
+    font-size: 25px!important;
+}
+.contain-width.software-recogn {
+    padding-top: 40px!important;
+    padding-bottom: 35px!important;
+}
+.slick-prev {
+    left: 40%!important;
+}
+.slick-next {
+    left: 53%!important;
+}
+.slick-next, .slick-prev {
+    top: 125%!important;
+}
+.height-65px img {
+    height: 53px!important;
+}
+.dev-approach h3, .key-feature h3, .logo-opris-quote-inner h3, .meta-vese-inner .tabs .tablinks h4, .right-inteligence h3, .stack-preferable h3, h3.overview-cls span, h3.text-align-centre.font-w-800, h4, section.cex h3, section.crypto-exchange h3, section.modern-tech h3, section.softwre-potrait h3 {
+    font-size: 25px!important;
+}
+.crypto-para p, form#form-help h4 {
+    font-size: 18px!important;
+}
+.key-feature h5 {
+    font-size: 17px!important;
+    line-height: 30px;
+}
+.block-cdp h4, .block-sdl h4, .block-sps h4 {
+    font-size: 23px!important;
+}
+section.security-feature h4 {
+    font-size: 20px!important;
+}
+.row.row-one, .row.row-three, .row.row-two {
+    padding: 14px 0 25px;
+}
+.benefits h3 {
+    margin-bottom: 0;
+    font-size: 25px!important;
+}
+.meta-vese-inner .tabs {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.meta-vese-inner .tabs .tablinks.active, section.interested-to-see-bsc .intelignce-btn ul li.nav-item.last-menu {
+    width: auto;
+}
+section.security-feature .lifecycle {
+    padding: 40px 0 25px;
+}
+span.mp-icon {
+    height: 30px;
+    width: 80px;
+    line-height: 33px;
+}
+.accrd-panel-head span.mp-icon {
+    position: absolute!important;
+    right: 10px;
+    width: 30px;
+    top: 10px;
+}
+ul.social-contact-list li img {
+    width: 50px;
+    padding: 10px;
+}
+.para-banner-button {
+    padding-left: 0;
+    position: relative;
+}
+.para-banner-button::before, section.softwre-potrait::before {
+    display: none;
+}
+.crypto-exchange, section.cex, section.security-feature {
+    padding-top: 50px;
+}
+.crypto-para {
+    margin-top: 0!important;
+}
+section.softwre-potrait {
+    position: relative;
+    padding: 50px 0;
+}
+.column-22-120px, .column-22-240px, .row.mt-120px {
+    margin-top: 50px;
+}
+.block-1, .inner-potrait {
+    padding: 20px;
+}
+.inner-dev, .right-block-dev {
+    padding: 25px;
+}
+.inner-key-feature {
+    padding: 25px!important;
+}
+.inner-key-feature span {
+    margin: 20px 0;
+    display: inline-block;
+    font-weight: 800;
+}
+.contain-width.inner-key-feature .row p {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+form#form-help label {
+    font-size: 16px;
+}
+input.form-control.button-submit {
+    padding: 10px 50px 19px!important;
+    line-height: 1!important;
+}
+.cdp, .sps {
+    padding-right: 0;
+}
+.crypto-img-exc img, .left-block-dev, .right-block-dev, .right-detail-img img, img.ss-img-bg {
+    width: 100%}
+.business-risk h3 {
+    padding-bottom: 50px;
+}
+.benefits {
+    padding: 0 0 50px;
+}
+.benefit-icon, section.footer-part h4 {
+    margin-top: 40px;
+}
+.left-block-dev {
+    background: #fce5e5;
+    padding: 20px;
+}
+section.modern-tech {
+    padding-top: 0;
+}
+.meta-vese-inner .tabs {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0;
+    flex-direction: column;
+}
+.meta-vese-inner .tabs .tablinks {
+    margin-bottom: 17px;
+}
+.meta-vese-inner .inner-tab-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+.metaverse.desktop-token-three-ways .meta-vese-inner .techno {
+    width: 40%;
+    text-align: center;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.metaverse.desktop-token-three-ways .meta-vese-inner .inner-tab-content {
+    justify-content: space-between;
+}
+section.stack-preferable {
+    margin: 0!important;
+}
+section.stack-preferable .contain-width {
+    background: #fce5e5;
+    padding: 50px 25px!important;
+}
+.logo-opris-quote-inner {
+    padding: 20px;
+    position: relative;
+    top: 0;
+}
+section.intel-craft {
+    margin-top: 0;
+    padding: 50px 0 0;
+    background: #f8fafb;
+}
+.perks-benfits h4 {
+    display: flex;
+    font-weight: 800;
+    flex-direction: column;
+}
+span.numeric {
+    margin-bottom: 30px;
+}
+section.faq-sectn {
+    padding: 50px 0 0;
+}
+.right-cex {
+    padding-left: 0;
+}
+.row.mt-120px {
+    padding: 0;
+}
+nav.navbar.navbar-expand-sm.bg-dark.navbar-dark {
+    margin-top: -45px;
+    width: 100%;
+    justify-content: flex-end;
+}
+section {
+    overflow: hidden;
+}
+ul#countries-flags, ul#social_select {
+    width: 100%!important;
+}
+ul.navbar-nav li i {
+    margin-left: 10px;
+}
+h5 {
+    font-size: 16px!important;
+}
+.banner-right img {
+    width: 90%}
+.ppts-right {
+    margin-top: 5px;
+}
+.init {
+    padding-bottom: 11px;
+    padding-top: 6px;
+    border-bottom: 1px solid #d1d1d1;
+}
+section.banner-part.index-form-sectn .banner-right img {
+    animation: none;
+    width: 25px!important;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+section.banner-part.index-form-sectn h1 {
+    letter-spacing: 0!important;
+}
+.niceCountryInputMenuDropdownContent {
+    text-align: left;
+    padding-left: 10px;
+}
+section.interested-to-see-bsc .intelignce-btn ul {
+    align-items: center;
+}
+form#form-help {
+    border: 5px solid #dc2626!important;
+}
+}@media (min-width:576px) and (max-width:1199.98px) {
+    .navbar-nav {
+    flex-direction: column!important;
+}
+.navbar-expand-sm .navbar-toggler {
+    display: block;
+}
+.collapse:not(.show) {
+    display: none!important;
+}
+.navbar-expand-sm {
+    flex-wrap: wrap!important;
+    justify-content: end;
+}
+.navbar-expand-sm .navbar-collapse {
+    flex-basis: 100%;
+    flex-direction: column;
+}
+a.close-menu {
+    width: 100%;
+    text-align: right;
+}
+}@media (min-width:768px) and (max-width:991.98px) {
+    .business-overwhelm-inner p {
+    text-align: center!important;
+    margin: auto 0;
+    display: inline;
+}
+h1 {
+    font-size: 35px!important;
+    line-height: 57px!important;
+}
+.h1.head-banner-head-hightlght  {
+    font-size:  57px !important;
+         line-height:  57px!important;
+}
+row.admin-features-of-binance-clone, .row.user-features-of-binance-clone {
+    justify-content: center;
+}
+.process-left {
+    position: relative;
+    padding: auto 0!important;
+}
+section.process-coin.explore-the-benefits .process-right h3 {
+    margin-top: 30px;
+}
+h1.head-banner-head-hightlght span {
+    font-size: 57px!important;
+    color: #ff0f0f;
+}
+section.footer-part h4 {
+    font-size: 25px!important;
+}
+section.build-on-any-platform.extended-service .col-md-12 {
+    width: 50%}
+section.build-on-any-platform.extended-service .inner-block-build {
+    min-height: 456px;
+}
+section.build-on-any-platform.extended-service .inner-block-build h6 {
+    min-height: 50px;
+}
+section.footer-part ul {
+    padding-left: 0;
+}
+ul.follow-icon-list li {
+    padding-right: 20px;
+}
+h1.response {
+    line-height: 70px!important;
+}
+.foot-right {
+    padding-left: 0!important;
+}
+ul.follow-icon-list {
+    justify-content: flex-start!important;
+}
+}
+
+@media (min-width:768px) and (max-width:1199.98px) {
+    .faq-sectn .perks-benfits p {
+    padding-left: 60px;
+}
+span.numeric.n1 {
+    margin-right: 39px;
+}
+.contain-width {
+    padding-left: 25px!important;
+    padding-right: 25px!important;
+}
+.logo-opris-quote-inner {
+    position: relative!important;
+}
+section.stack-preferable {
+    margin: 50px 0 0;
+}
+section.intel-craft {
+    margin-top: 0;
+    padding: 50px 0 0;
+}
+section.cex, section.security-feature {
+    padding-top: 50px;
+}
+.benefits, .form-sectn {
+    padding: 0 0 50px;
+}
+.meta-vese-inner .tabs .tablinks {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.meta-vese-inner .tabs {
+    flex-wrap: wrap;
+}
+.left-block-dev {
+    padding: 40px;
+}
+.business-risk h3 {
+    padding-bottom: 40px;
+}
+.column-22-120px, .column-22-240px, .row.mt-120px {
+    margin-top: 50px;
+}
+section.softwre-potrait {
+    padding: 50px 0;
+    position: relative;
+}
+.slick-prev {
+    left: 0!important;
+}
+.slick-next {
+    right: 0!important;
+}
+div#collapsibleNavbar ul li a i {
+    float: none!important;
+    margin-left: 15px!important;
+}
+a.nav-link.transition-effect, li.nav-item.drop-down-menu-clone:hover ul.drop-down-list-clone, li.nav-item.drop-down-menu-exch:hover ul.drop-down-list-exch {
+    text-align: center;
+}
+li.clone-close-menu-list, li.exch-close-menu-list {
+    text-align: right;
+}
+.banner-part {
+    padding-top: 0;
+}
+ul.navbar-nav {
+    top: 0!important;
+}
+.form-right-part {
+    justify-content: flex-start;
+    width: 100%}
+.form-img .form-img-inner {
+    width: 50%;
+    padding: 0;
+    margin: 10px;
+}
+.form-img .form-img-inner img {
+    width: 100%}
+.form-img {
+    align-items: center;
+}
+nav.navbar.navbar-expand-sm.bg-dark.navbar-dark {
+    width: 100%;
+    margin-top: -58px;
+    width: 100%;
+    justify-content: flex-end;
+}
+}
+
+
+
+
+@media (max-width:1199.98px) {
+    div#collapsibleNavbar {
+    position: fixed;
+    width: 100%;
+    background: rgb(238, 239, 243) !important;
+    height: 100%;
+    z-index: 999;
+    padding: 10px;
+    top: 0;
+    left: 0;
+}
+div#collapsibleNavbar ul li a {
+    /* color: #fff!important; */
+    display: block;
+}
+li.nav-item.last-menu {
+    margin-left: 0!important;
+}
+div#collapsibleNavbar ul li {
+    margin: 10px 0 0;
+}
+a.close-menu {
+    color: #fff;
+    font-size: 28px;
+    float: right;
+    display: block;
+}
+div#collapsibleNavbar ul li a i {
+    float: right;
+}
+ul.navbar-nav {
+    position: relative;
+    top: 35px;
+}
+ul.drop-down-list-clone, ul.drop-down-list-exch {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background: #3d3737;
+    left: 0;
+    top: -6px;
+    list-style: none;
+    padding: 10px;
+    overflow: auto;
+}
+li.clone-close-menu-list, li.exch-close-menu-list {
+    margin: 0!important;
+    border: none!important;
+    display: block!important;
+}
+li.clone-close-menu-list a, li.exch-close-menu-list a {
+    border-bottom: 0!important;
+}
+.close-submenu {
+    transform: translateY(-200%);
+}
+.logo-part a {
+    display: inline-block;
+    position: relative;
+    z-index: 999;
+}
+.navbar-dark .navbar-toggler {
+    background: #000;
+}
+nav.navbar.navbar-expand-sm li.nav-item.last-menu a.nav-link.menu-last {
+    padding: 10px!important;
+    text-align: center;
+}
+nav.navbar.navbar-expand-sm li.nav-item.last-menu a.nav-link.menu-last span {
+    position: relative;
+    left: 15px;
+}
+nav.navbar.navbar-expand-sm li.nav-item.last-menu {
+    background: 0 0!important;
+    border: 0;
+    border-radius: 0;
+}
+nav li.nav-item.last-menu::after, nav li.nav-item.last-menu::before {
+    display: none;
+}
+.form-right-part {
+    justify-content: flex-start;
+    width: 100%}
+}@media (min-width:576px) and (max-width:767.98px) {
+    section.cex .tablinkss, section.cex.dex .tablinksss {
+    width: 40%}
+}@media (max-width:575.98px) {
+    img.ss-img-bg {
+    width: 300px;
+}
+img.ss-img {
+    top: 30%;
+    left: 50%;
+    width: 110px;
+    margin-left: -55px;
+}
+}@media (max-width:991.98px) {
+    .mobile-banner-trade img {
+    width: 75%!important;
+    margin-left: -30px!important;
+}
+.mobile-banner-buysell img {
+    border: none;
+}
+form#form-help {
+    padding: 20px 10px;
+}
+.row.mobile-clone-script-build .block-1 .accrd-panel-body a {
+    color: #dc2626;
+}
+.social-icons-contact-fixed {
+    position: fixed;
+    right: auto;
+    bottom: 0;
+    z-index: 999;
+}
+.mobile-banner-buysell, .mobile-banner-trade, .mobile-banner-welcome {
+    animation-name: none!important;
+}
+}@media (max-width:600.98px) {
+    .ppts-right ul li {
+    padding-left: 0!important;
+}
+}.rigor-img img {
+    min-height: 30px;
+    margin: 0 auto;
+}
+@media (min-width:1025px) {
+    .faq-sectn .perks-benfits p {
+    padding-left: 88px;
+}
+span.numeric.n1 {
+    margin-right: 39px;
+}
+}@media (min-width:1024px) and (max-width:1439px) {
+    section.banner-part h1 {
+    font-size: 50px!important;
+    line-height: 60px!important;
+}
+}@media (min-width:992px) and (max-width:1199.98px) {
+    section.own-your-crypto.business-suite-like-binance .own-your-crypto-img {
+    width: 120%;
+    margin-top: 0;
+    left: auto;
+    right: -120px;
+}
+.own-your-crypto-img {
+    width: 100%;
+    margin-top: 0;
+    left: 70px;
+}
+}@media (max-width:767.98px) {
+     .assistance-bx img  {
+     position:  absolute;
+     left:  0px !important;
+     top:  -42px !important;
+    width:  70px !important;
+    height:  70px !important;
+ }
+ .inner-pop-up-home  {
+     left:  0px !important;
+     top:  50% !important;
+     width:  90% !important;
+     border-radius:  25px !important;
+     padding:  15px !important;
+     background:  #fff;
+     position:  absolute;
+     margin-left:  20px !important;
+     margin-top:  -220px !important;
+ }
+ .btn-bottom  {
+    flex-direction:  column !important;
+}
+.btn-bottom a  {
+     margin-bottom:  15px;
+}
+}

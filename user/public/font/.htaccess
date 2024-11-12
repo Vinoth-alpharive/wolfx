@@ -1,0 +1,82 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R]
+
+#RewriteRule ^(.+)\.php - [F,L]
+
+RewriteEngine On
+
+
+
+RewriteCond %{THE_REQUEST} ^.*/index\.php 
+RewriteRule ^(.*)index.php$ /$1 [R=301,L]
+
+RewriteRule ^index$ index.php [L]
+RewriteRule ^authwelcome$ auth-welcome.php [L]
+RewriteRule ^login$ login.php [L]
+RewriteRule ^login-userid$ login-userid.php [L]
+RewriteRule ^register$ register.php [L]
+RewriteRule ^verify-code$ verify-code.php [L]
+RewriteRule ^invite-code$ invite-code.php [L]
+
+# RewriteRule ^resetpwd$ resetpwd.php [L]
+# RewriteRule ^otverfiy$ otverfiy.php [L]
+# RewriteRule ^forgotpwd$ forgotpwd.php [L]
+# RewriteRule ^registersuccess$ registersuccess.php [L]
+
+RewriteRule ^dashboard$ dashboard.php [L]
+
+RewriteRule ^profile$ profile.php [L]
+RewriteRule ^referral-rewards$ referral-rewards.php [L]
+RewriteRule ^referral-nodata$ referral-nodata.php [L]
+RewriteRule ^invite-friends$ invite-friends.php [L]
+RewriteRule ^reset-transaction-password$ reset-transaction-password.php [L]
+RewriteRule ^setting$ setting.php [L]
+RewriteRule ^404$ error.php [L]
+RewriteRule ^exchange$ exchange.php [L]
+RewriteRule ^deposit-inner$ deposit-inner.php [L]
+RewriteRule ^deposit$ deposit.php [L]
+RewriteRule ^withdraw$ withdraw.php [L]
+RewriteRule ^history$ history.php [L]
+RewriteRule ^wallet-address-inner$ wallet-address-inner.php [L]
+RewriteRule ^wallet-address$ wallet-address.php [L]
+RewriteRule ^transaction-password$ transaction-password.php [L]
+RewriteRule ^support$ support.php [L]
+RewriteRule ^exchange-history$ exchange-history.php [L]
+RewriteRule ^add-bank$ add-bank.php [L]
+RewriteRule ^bank-history$ bank-history.php [L]
+
+RewriteRule ^error$ error.php [L]
+
+<IfModule mod_expires.c>
+Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
+</IfModule>
+<IfModule mod_expires.c>
+
+# Enable expirations
+
+ExpiresActive On 
+
+# Default directive
+
+ExpiresDefault "access plus 6 month"
+
+# Images
+
+# ExpiresByType images/png "access plus 6 month"
+# ExpiresByType images/jpg "access plus 6 month"
+# ExpiresByType images/jpeg "access plus 6 month"
+# ExpiresByType images/svg "access plus 6 month"
+
+# CSS
+
+ExpiresByType text/css "access plus 6 month"
+
+# Javascript
+
+ExpiresByType text/javascript "access plus 6 month"
+
+ExpiresByType application/javascript "access plus 6 month"
+
+</IfModule>
